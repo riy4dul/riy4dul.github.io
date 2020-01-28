@@ -1863,8 +1863,9 @@ h2.project_heading:after {
 }
 .port_project_gallery .grid-content {
     position: absolute;
-    left: 40px;
+    left: 23%!important;
     bottom: 20px;
+    /*bottom: 20px;*/
     color: white;
     z-index: 1;
 	-webkit-transition: all 0.3s;
